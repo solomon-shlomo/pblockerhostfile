@@ -1,0 +1,5 @@
+# Hostfile for blocking porn sites on childrens mobile
+# Android Project - Block Porn App
+
+
+
